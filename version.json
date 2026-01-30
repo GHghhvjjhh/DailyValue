@@ -1,7 +1,8 @@
 {
-  "version": "1.0.0",
-  "buildNumber": "1",
-  "desc": "这是 DailyValue 的第一个版本！",
-  "downloadUrl": "https://github.com/GHghhvjjhh/DailyValue/releases/download/v1.0.0%EF%BC%88beta%EF%BC%89/app-arm64-v8a-release.apk" 
+  "version": "1.0.1",
+  "buildNumber": "2",
+  "desc": "1. 新增APP图标\n2. 新增数据管理\n",
+  "downloadUrl": "https://github.com/GHghhvjjhh/DailyValue/releases/download/v1.0.1/app-arm64-v8a-release.apk" 
 }
+
 
